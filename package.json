@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/thulasipavankumar/first-node-app#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http": "0.0.1-security",
     "url": "^0.11.0",
     "ws": "7.4.6"
